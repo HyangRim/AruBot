@@ -1,7 +1,7 @@
 import discord
 
 client = discord.Client()
-token = "NTQzMDU5ODQ2MTE5ODE3MjE2.XgRr8Q.NRY8pXJegYyucgkMZi0UQKywO34"
+token = ""
 game = discord.Game("Arururung")
 @client.event
 async def on_ready():
